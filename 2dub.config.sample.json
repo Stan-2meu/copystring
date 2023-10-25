@@ -1,0 +1,6 @@
+{
+  "copystring": {
+    "searchThrough": ["path_to_string", "pathtostring", ".env.local", ".env"],
+    "searchFor": "dPATH_TO_STRING"
+  }
+}

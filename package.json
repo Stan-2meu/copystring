@@ -1,0 +1,25 @@
+{
+  "name": "copystring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copystring.js",
+  "bin": {
+    "copystring": "./copystring.js"
+  },
+  "scripts": {
+    "start": "node copystring.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stan-2meu/copystring.git"
+  },
+  "author": "Stan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stan-2meu/copystring/issues"
+  },
+  "homepage": "https://github.com/Stan-2meu/copystring#readme",
+  "dependencies": {
+    "findup-sync": "^5.0.0"
+  }
+}
